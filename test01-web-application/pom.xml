@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.boaglio.casadocodigo</groupId>
-	<artifactId>teste01-web-application</artifactId>
+	<artifactId>test01-web-application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>teste01-web-application</name>
+	<name>test01-web-application</name>
 	<description>Spring Boot web application</description>
 	<properties>
 		<java.version>11</java.version>
